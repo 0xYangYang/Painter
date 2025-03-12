@@ -12,9 +12,7 @@ Painter is a drawing tool game developed for the Nintendo Entertainment System (
 
 ## Controls
 **D-PAD:** Move the drawing cursor  
-**A/B:** Change drawing color/tools  
-**START:** Clear the screen/Begin new drawing  
-**SELECT:** Open/close the tool palette
+**A/B:** paint the color/tools  
 
 ## Development
 This game was developed to practice NES game development techniques and serves as a practical test case for the XONE emulator. The simplicity of the drawing mechanics makes it an ideal test application for emulator functionality and performance.
